@@ -78,7 +78,7 @@
 * Make sure all the dependencies are installed
 * Download the files
   * Option 1: 🍴 Fork this repository!
-  * Option 2: 🧪 Clone the repository to your local machine using https://github.com/sagarpatel211/ICS_Productivity_App.git!
+  * Option 2: 🧪 Clone the repository to your local machine!
 * Open *app.py* in Python IDLE or another IDE
 * Run *app.py* and start being productive! 🛠
 
