@@ -116,9 +116,9 @@
 
 ## Contact
 #### Sagar
-[Email](mailto:patelsag@students.dsbn.org) | [Website](https://sagarpatel211.github.io/)
+[Email](mailto:2sagarpatel2@gmail.com) | [Website](https://sagarpatel211.github.io/)
 
 #### Saurin
-[Email](mailto:patelsa@students.dsbn.org) | [Website](https://saurinpatel20.github.io/)
+[Email](mailto:saurinpatel222@gmail.com) | [Website](https://saurinpatel20.github.io/)
 
 
