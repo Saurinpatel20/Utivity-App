@@ -119,6 +119,6 @@
 [Email](mailto:2sagarpatel2@gmail.com) | [Website](https://sagarpatel211.github.io/)
 
 #### Saurin
-[Email](mailto:saurinpatel222@gmail.com) | [Website](https://saurinpatel20.github.io/)
+[Email](mailto:saurinpatel222@gmail.com)
 
 
